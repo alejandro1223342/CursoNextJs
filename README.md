@@ -1,31 +1,26 @@
-📌 Proyecto TypeScript + React + Next.js + MongoDB + PostgreSQL
+# 📘 Proyecto TypeScript + React + Next.js + MongoDB + PostgreSQL
 
-Este proyecto integra Next.js, React, TypeScript, MongoDB y PostgreSQL para desarrollar una aplicación moderna, escalable y de alto rendimiento.
+> 🚀 Este proyecto combina **Next.js**, **React**, **TypeScript**, **MongoDB** y **PostgreSQL** para construir una aplicación moderna, escalable y de alto rendimiento.
 
-🛠️ Creación del proyecto con Next.js
+---
 
-Para iniciar un nuevo proyecto con Next.js, ejecuta el siguiente comando:
+## 🛠️ Creación del Proyecto con Next.js
 
-npx create-next-app projectName
+1. **Ejecuta el siguiente comando para crear un nuevo proyecto:**
 
+   ```bash
+   npx create-next-app projectName
+2. **Durante la instalación, aparecerá el siguiente mensaje:**
 
-Durante la instalación, aparecerá un mensaje similar:
+   ```bash
+    Need to install the following packages:
+    create-next-app@latest
+    Ok to proceed? (y)
+   
+  ✅ Presiona y para continuar.
 
-Need to install the following packages:
-create-next-app@latest
+3. **A continuación, se mostrará la pregunta**:
+   ```bash
+    √ Would you like to use the recommended Next.js defaults? » Yes, use recommended defaults
 
-Ok to proceed? (y)
-
-
-Presiona y para continuar.
-
-Luego, se mostrará la siguiente pregunta:
-
-√ Would you like to use the recommended Next.js defaults? » Yes, use recommended defaults
-
-
-Selecciona “Yes, use recommended defaults” para crear el proyecto con la configuración recomendada por Next.js.
-
-✅ Resultado
-
-Al finalizar la instalación, se creará una estructura de proyecto básica lista para usar con React, Next.js y TypeScript.
+  Selecciona “Yes, use recommended defaults” para continuar con la configuración recomendada por Next.js.
