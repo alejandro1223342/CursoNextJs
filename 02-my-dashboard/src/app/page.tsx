@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Home() {
 
-  redirect('/dashboard/counter')
+  redirect('/dashboard/main')
 
   return (
     <>
